@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a CS student at Central Michigan University. 
+I have a Computer Science degree from Central Michigan University
 
 
 ## 🌐 Socials:
